@@ -1,0 +1,27 @@
+body{
+    background-color: #f4f4f4;
+    color:#555;
+    font-family: Verdana, sans-serif;
+    font-size: 16px;
+    line-height: 1.6em;
+    margin:0;
+    }
+    
+    .container{
+        width:80%;
+        margin:auto;
+    }
+
+    #main-header{
+        background-color: lightskyblue;
+        color: white;
+        text-align: center;
+        overflow: hidden;
+    }
+    .myimage{
+        
+    }
+
+
+
+    
